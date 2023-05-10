@@ -1,0 +1,19 @@
+name: com.tnk.adiscope
+displayName: adiscope
+description: adiscope 3.0.0.0
+repoUrl: 'https://github.com/adiscope/adiscope-unity-package-manager'
+parentRepoUrl: null
+licenseSpdxId: ''
+licenseName: MIT
+topics:
+  - audio
+hunter: t
+gitTagPrefix: com.example.mypackage-1
+gitTagIgnore: com.example.mypackag
+minVersion: adiscope/adiscope-unity-package-manager
+image: ''
+readme: 'main:com.tnk.adiscope/CHANGELOG.md'
+readme_zhCN: ''
+displayName_zhCN: ''
+description_zhCN: ''
+createdAt: 1683739369351

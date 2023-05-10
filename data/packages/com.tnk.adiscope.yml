@@ -1,0 +1,21 @@
+name: com.tnk.adiscope
+displayName: adiscope
+description: adiscope 3.0.0.0
+repoUrl: 'https://github.com/adiscope/adiscope-unity-package-manager'
+parentRepoUrl: null
+licenseSpdxId: ''
+licenseName: MIT
+topics:
+  - frameworks
+  - mobile
+  - network
+hunter: adiscope
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+image: ''
+readme: 'main:com.tnk.adiscope/CHANGELOG.md'
+readme_zhCN: ''
+displayName_zhCN: ''
+description_zhCN: ''
+createdAt: 1683738637733
